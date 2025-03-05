@@ -2,8 +2,8 @@
 ### 문제 
 ![KakaoTalk_20250305_160159532](https://github.com/user-attachments/assets/1570ee72-8a27-4b2b-b2dd-22931d5dceb7)
 
+
 이거 왜 내가 틀렸는지 이해가 안돼
----
 
 ### 풀이
 
